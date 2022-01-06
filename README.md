@@ -7,3 +7,8 @@
 - 찍을 y좌표(default:1)
 
 ## exe 파일로 변환해서 단순 사용 가능
+
+### 사용한 라이브러리
+- time, sys
+- pyautogui
+- pyinstaller
